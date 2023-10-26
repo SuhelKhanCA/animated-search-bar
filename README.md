@@ -1,3 +1,7 @@
+#Link for Remixicon
+https://github.com/Remix-Design/RemixIcon
+
+
 # Animated Search Bar
 ## [Watch it on youtube](https://youtu.be/TFXfpSjgI8Y)
 ### Animated Search Bar
